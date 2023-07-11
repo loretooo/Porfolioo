@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> ABOUT ME </title>
+     <link rel="stylesheet" href="PORFOLIO_HCI.css">
+     
+</head>
+<body>
+     <nav class="navbar">
+        <ul>
+            <li><a href="HOME">HOME</a></li>
+            <li><a href="ABOUT ME">ABOUT ME</a></li>
+            <li><a href="GALLERY">GALLERY</a></li>
+            <li><a href="GALLERY">MORE ABOUT ME</a></li>
+        </ul>
+     </nav>
+     <nav class="navbar">
+    </nav>
+    <section id="home">
+        <div class="aboutme">
+            <h1 class="headings">Hi!! I'm  <br> Loreto Managbanag Jr. </h1>
+            <button class="btn">
+                Click to know me more
+            </button>
+        </div>
+    </section>
+    <section id="ME">
+        <h1 class="headings">ABOUT ME</h1>
+        <div id="pic">
+        <img src="mintgreenBG.jpg" alt="">
+        <div id="intro">
+            <h2> L O R E T O</h2>
+            <p> Hi!! I am Loreto Managbanag Jr, 21 year old. I took a Bachelor of Science in Information Technology because I don't have any courses that I actually like. There is nothing special about me because I am not special. I have a motto in life: "Live your life to the fullest because life is short." That's all.</p>
+          </div>  
+    </section>
+    <section id="portfolio">
+        <h1 class="headings"> GALLERY</h1>
+        <div class="gallery">
+        <img src="1.jpg" alt="">
+        <img src="img.jpg" alt="">
+        
+            
+        </div>
+    </section>
+    <section id=" MORE ABOUT ME">
+        <h1 class="headings">MORE ABOUT ME</h1>
+        <div class="row">
+            <div class="box">
+                <img src="coffee.jpg" alt="">
+                <h1 class="headings">Hobby</h1>
+                <p>Drinking coffee is one of my hobbies these days because coffee comforts me whenever I'm sad. Even if I am happy or just bored, I just drink coffee. Though coffee makes me palpitate, I still love it. Watching tiktok is one of my hobbies these days too. While drinking coffee, I just watch tiktok. Whenever I don't have anything to do, I just watch tiktok videos.</p>
+            </div>
+            <div class="box">
+                <img src="7.jpg" alt="">
+                <h1 class="headings">Basketball</h1>
+                <p>Basketball is my sport, though I like badminton too, but Basketball is the game that I usually play with my friends.</p>
+            </div>
+            <div class="box">
+                <img src="grc.png" alt="">
+                <h1 class="headings">Education</h1>
+                <p>
+                    I am a Second-year college student. I am studying at Global Reciprocal College, taking a Bachelor of Science in Information Technology. I took this course because it was cool. I actually don't have any courses that I like, and my brother suggested this course because he also took information technology in GRC. So yah, that's all./p>
+            </div>
+
+
+</body>
+</html>
